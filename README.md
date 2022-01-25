@@ -12,4 +12,4 @@
    3. `yarn`
    4. `yarn start`
 
-3. Visit http://localhost:3000 and you can app running.
+3. Visit http://localhost:3000
